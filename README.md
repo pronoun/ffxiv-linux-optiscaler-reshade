@@ -1,5 +1,5 @@
-# ffxiv-linux-optiscaler-reshade
-## How I installed FFXIV Launcher, OptiScaler & ReShade on Linux
+# FFXIV Launcher + Linux + OptiScaler + ReShade 
+## How I installed FFXIV Launcher, OptiScaler (DLSS/FSR) & ReShade (Shaders) on Linux
 
 Most of the info and steps come from the [XIVLauncher & Dalamud Discord](https://discord.gg/3NMcUV5) with some 
 
