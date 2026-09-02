@@ -6,7 +6,7 @@ Most of the info and steps come from the [XIVLauncher & Dalamud Discord](https:/
 1. [Install FFXIV Launcher](https://github.com/goatcorp/FFXIVQuickLauncher)
 
 2. Using [this script install ReShade](https://github.com/kevinlekiller/reshade-steam-proton) <sub>(Might need to copy d3dcompiler_47.dll to the xivlauncher's wine directory(~/.xlcore/wineprefix/drive_c/windows/system32)</sub>
-   * **USE THE COMMAND** `RESHADE_ADDON_SUPPORT=1 ./reshade-linux.sh`
+   * **USE THE COMMAND** `RESHADE_ADDON_SUPPORT=1 ./reshade-linux.sh` TO RUN THE SCRIPT.
       * Do not follow steps to adjust your `WINEDLLOVERRIDES`
 
 3. Download and install [OptiScaler](https://github.com/optiscaler/OptiScaler/wiki/Automated-Installation) via the automated installer.
